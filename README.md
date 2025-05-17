@@ -40,6 +40,9 @@ Releases are versioned for easy integration.
 
 ---
 
+🛠 Development of BioSynapStudio.Net.Core is ongoing in the private repository.  
+You can track current goals and architecture under [our internal roadmap](https://github.com/users/Overdrive77/projects/3/views/1?pane=issue&itemId=111143138).
+
 ## 📚 Documentation
 
 Core documentation is located in the [`Docs/`](./Docs/) folder and includes:
