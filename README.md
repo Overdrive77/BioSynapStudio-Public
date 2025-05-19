@@ -68,7 +68,7 @@ Unauthorized redistribution is strictly prohibited.
 ## 📧 Contact
 
 Questions? Collaboration proposals?  
-📩 Email us: **biosynapstudio@proton.me**
+📩 Email us: **biosynapstudio at proton dot me**
 
 ---
 
