@@ -1,3 +1,5 @@
+![BioSynapStudio_Banner](https://github.com/user-attachments/assets/f9bf6da7-dcc8-45a8-9605-0eafdcd64ddf)
+
 # BioSynapStudio
 
 **A biologically accurate synthetic intelligence framework built in C#.**
