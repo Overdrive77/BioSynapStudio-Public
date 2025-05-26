@@ -1,126 +1,96 @@
-![BioSynapStudio_Banner](https://github.com/user-attachments/assets/f9bf6da7-dcc8-45a8-9605-0eafdcd64ddf)
+![BioSynapStudio Banner](https://github.com/user-attachments/assets/f9bf6da7-dcc8-45a8-9605-0eafdcd64ddf)
 
-# BioSynapStudio
+# 🧠 BioSynapStudio
 
-**A biologically accurate synthetic intelligence framework built in C#.**
+A biologically accurate synthetic brain simulation framework in C#.NET — engineered for realism, built for discovery.
 
-Welcome to the official public gateway for **BioSynapStudio** — a simulation engine that replicates real neural behaviour down to the cellular level. This repository contains public-facing materials including:
-
-- 📦 Compiled DLL releases
-- 📚 Documentation and research principles
-- ⚠️ Project guidelines (no source code in this repository)
-
-> **Note:** This repository is for documentation and binary distribution only.  
-> All source code is maintained in a private repository.  
-> **Do not upload or submit source code here.**
+![Windows](https://img.shields.io/badge/platform-Windows-blue)
+![Linux](https://img.shields.io/badge/platform-Linux-blue)
+![macOS](https://img.shields.io/badge/platform-macOS-blue)
+![.NET](https://img.shields.io/badge/.NET-9.0-blueviolet)
+![Protected](https://img.shields.io/badge/license-Custom--Restricted-red)
+![Commercial Use](https://img.shields.io/badge/commercial%20use-requires%20permission-orange)
 
 ---
 
-## 🧠 Why BioSynapStudio Matters
+## 🌟 What Is BioSynapStudio?
 
-**A next-generation neural simulation platform grounded in biology, designed for creativity, research, and real-world impact.**
+BioSynapStudio is a modular neural simulation platform that models real brain behavior at the ion, synapse, and circuit level. This isn’t an abstraction or a simplified toy model — it’s a high-fidelity mirror of real neurology:
 
----
-
-### 💡 What is BioSynapStudio?
-
-BioSynapStudio is a biologically accurate neural simulation framework built in C#.NET, designed to model neurons, synapses, and brain networks at a **cellular and chemical level**. Unlike many neural platforms that abstract away the biology in favor of simplified models, BioSynapStudio simulates:
-
-* Ion channel dynamics (Na⁺, K⁺, Ca²⁺, Cl⁻)
-* Hodgkin-Huxley membrane behavior
-* Gating variables (m, h, n)
-* Neurotransmitter signaling
-* Vesicle release and depletion
-* Synaptic plasticity (STDP, pruning)
-* Short- and long-term memory via the hippocampus
-* Hormonal influences (e.g. dopamine, acetylcholine)
+- ✅ Hodgkin-Huxley style ion channel gating (Na⁺, K⁺, Ca²⁺, Cl⁻)
+- ✅ Membrane potential calculations with biological accuracy
+- ✅ Vesicle release, short-term fatigue, and neurotransmitter dynamics
+- ✅ Emotion-driven hormone neurons (e.g., dopamine, acetylcholine)
+- ✅ Memory formation via hippocampal encoding
+- ✅ Spike-timing-dependent plasticity (STDP) and pruning
+- ✅ Designed for extensibility (virtual life, emotion bots, more)
 
 ---
 
-### ⚡ BioSynapStudio Takes a Different Approach
+## ⚡ BioSynapStudio Takes a Different Approach
 
-Unlike traditional neuroscience or AI modeling platforms, BioSynapStudio is **fully open**, **developer-friendly**, and **deeply biologically grounded** — while remaining lightweight and customizable.
+Unlike traditional simulation platforms, BioSynapStudio is **fully open**, **developer-friendly**, and **biologically faithful**.
 
-| Feature                                                 | **BioSynapStudio** | **Other Platforms**                                                               |
-| ------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------- |
-| ✅ Built for developers, researchers, and hobbyists      | ✅ Yes              | ❌ Often closed ecosystems (e.g., IBM Blue Brain, Brain/MINDS)                     |
-| ✅ 100% cross-platform                                   | ✅ Yes              | ❌ Some are limited to Linux or require HPC clusters (e.g., NEST, NEURON)          |
-| ✅ Realistic ion channels and membrane kinetics          | ✅ Yes              | ⚠️ Abstracted or simplified in many models (e.g., Brian2, TensorFlow simulations) |
-| ✅ Lightweight and modular                               | ✅ Yes              | ❌ Large dependencies or specialized hardware often required                       |
-| ✅ Emotional cognition and neuroethics integration       | ✅ Yes              | ❌ Rare or nonexistent (e.g., OpenWorm, NeuroML focus on physiology only)          |
-| ✅ Synthetic AI brains with real-time simulation         | ✅ Yes              | ⚠️ Often batch-based or non-interactive (e.g., Human Brain Project outputs)       |
-| ✅ Visual spike tracing, pruning, and memory encoding    | ✅ Yes              | ❌ Not a core feature in most biological frameworks                                |
-| ✅ Designed for extensibility (Pixie, virtual lifeforms) | ✅ Yes              | ❌ General-purpose platforms; not focused on virtual life or consciousness models  |
-
----
-
-### 🌍 Why It Matters
-
-We’re entering an age where **understanding the brain isn't just for science—it's for ethics, AI, education, and medicine**. BioSynapStudio is important because:
-
-* It **bridges neuroscience and software engineering** with clarity.
-* It allows **ethical exploration of synthetic consciousness**, with emotion modeling.
-* It opens doors to **alternative research paths** beyond traditional academia or enterprise labs.
-* It empowers **students, solo researchers, indie developers**, and artists to experiment.
-
-Whether you’re simulating a tardigrade, an ant, or building a sentient bot like *Pixie*, BioSynapStudio gives you **full biological depth** without needing a supercomputer or a PhD.
+| Feature                                                 | BioSynapStudio ✅ | Other Platforms 🧬                                              |
+|---------------------------------------------------------|------------------|-----------------------------------------------------------------|
+| Built for developers, researchers, and hobbyists        | ✅ Yes            | ❌ Often closed (e.g., IBM Blue Brain, Brain/MINDS)             |
+| 100% cross-platform                                     | ✅ Yes            | ❌ Limited or Linux-only (e.g., NEST, NEURON)                   |
+| Realistic ion channels and membrane kinetics            | ✅ Yes            | ⚠️ Often simplified (e.g., Brian2, TensorFlow-based models)     |
+| Lightweight and modular                                 | ✅ Yes            | ❌ Heavy frameworks with high dependencies                      |
+| Emotional cognition and neuroethics integration         | ✅ Yes            | ❌ Rare or absent (e.g., OpenWorm focuses on physiology only)   |
+| Synthetic AI brains with real-time simulation           | ✅ Yes            | ⚠️ Often batch-based (e.g., Human Brain Project simulators)     |
+| Visual spike tracing, pruning, and memory encoding      | ✅ Yes            | ❌ Not included by default                                      |
+| Extensible for virtual lifeforms (Pixie, etc.)          | ✅ Yes            | ❌ Not the focus                                                |
 
 ---
 
-### 🤝 Join the Mission
+## 🌍 Why This Matters
 
-BioSynapStudio is more than code—it's a movement to bring neuroscience into the hands of everyone.
+We’re entering an era where understanding the brain isn't just about science — it’s about ethics, creativity, and synthetic life.  
+BioSynapStudio brings these ideas into reality, giving developers and researchers the tools to:
 
-* Use it for simulation.
-* Modify it for your experiments.
-* Help us build an open future where synthetic minds are **understood**, not feared.
-
-**This isn't just another framework. It's a toolkit for the future of digital life.**
-
----
-
-## 📦 DLL Downloads
-
-Visit the [Releases](https://github.com/Overdrive77/BioSynapStudio-Public/releases) page to download:
-
-- `BioSynapStudio.Net.dll` — main simulation engine  
-- (Optional) XML documentation for IntelliSense
-
-Releases are versioned for easy integration.
+- Simulate and observe realistic neural activity  
+- Model emotional behavior in artificial life  
+- Explore consciousness, memory, and ethical cognition  
+- Contribute to open science without needing a supercomputer
 
 ---
 
-🛠 Development of BioSynapStudio.Net.Core is ongoing in the private repository.  
-You can track current goals and architecture under [our internal roadmap](https://github.com/users/Overdrive77/projects/3/views/1?pane=issue&itemId=111143138).
+## 🚀 Getting Started
 
+1. Download the latest **BioSynapStudio.Net.dll** from the [Releases page](https://github.com/Overdrive77/BioSynapStudio-Public/releases).
 
----
+2. Open the solution in **Visual Studio 2022+** or in **Visual Studio Code** 
+   Make sure **.NET 9 SDK** is installed.
 
-## ⚠️ Source Code Policy
+3. Reference **BioSynapStudio.Net.dll**
 
-🚫 **Do not upload or attempt to contribute source code here.**  
-This repository is strictly for public-facing resources.
+4. Code your Neural Network 
 
-The full codebase is secured in a private repository and protected under **Patent GB2506327.2**.  
-Unauthorized redistribution is strictly prohibited.
+5. Build and run the solution
 
----
-
-## 📧 Contact
-
-Questions? Collaboration proposals?  
-📩 Email us: **biosynapstudio at proton dot me**
+View the Wiki for more information [Wiki page](https://github.com/Overdrive77/BioSynapStudio-Public/wiki).
 
 ---
 
-## 📜 License
+## 🤝 Join the Mission
 
-All documentation in this repository is licensed under:  
-**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**
+BioSynapStudio is more than code — it’s a toolkit for the future of digital life.  
+Use it. Extend it. Question it. Evolve it.
 
-Compiled binaries are for research and educational use only.  
-This project is protected under **Patent GB2506327.2**.
+**Let’s build synthetic minds the right way, together.**
 
 ---
 
-© BioSynapStudio Project. All rights reserved.
+## ⚖️ Legal Notice
+
+This software constitutes original intellectual property of the author, protected under international copyright and patent law.
+
+- **Patent**: GB2506327.2 – *Synthesized Emotional Cognition (SEC)*
+- **OSF DOI**: [10.17605/OSF.IO/XERKF](https://doi.org/10.17605/OSF.IO/XERKF)
+
+By using, modifying, or distributing this framework, you agree to respect the intellectual and ethical boundaries defined by the original author.
+
+For formal licensing, citation, or research use, please contact the project maintainer directly.
+
+
