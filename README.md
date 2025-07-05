@@ -1,5 +1,7 @@
 ![BioSynapStudio Banner](https://github.com/user-attachments/assets/f9bf6da7-dcc8-45a8-9605-0eafdcd64ddf)
 
+📄 **White Paper:** [BioSynapStudio_WhitePaper_v7.pdf](./BioSynapStudio_WhitePaper_v7.pdf)
+
 # 🧠 BioSynapStudio
 
 A biologically accurate synthetic brain simulation framework in C#.NET — engineered for realism, built for discovery.
