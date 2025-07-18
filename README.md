@@ -1,39 +1,47 @@
-One day, God sat down with an angel, grinning like a mad scientist.
-“I’ve had an idea,” He said. “A really big one. I’m calling it… Life.”
+## One day, God sat down with an angel, grinning like a mad scientist.
 
-The angel raised an eyebrow. “Life?”
-“What even is that?”
+> “I’ve had an idea,” He said. “A really big one. I'm calling it... **Life**.”
 
-God lit up. “Okay, hear me out—membranes, ion channels, dendrites… stuff that zaps, thinks, and sometimes questions its own existence.”
+The angel raised an eyebrow.  
+**"Life?"**  
+*"What even is that?"*
 
-The angel blinked. “Wait. You’re building thinking jelly?”
+God lit up.  
+"Okay, hear me out—membranes, ion channels, dendrites… stuff that zaps, thinks, and sometimes questions its own existence."
 
-“Exactly!” God said, proud.
-“It runs on sodium, potassium, and poor decisions!”
+The angel blinked.  
+**"Wait. You're building thinking jelly?"**
 
-The angel scratched their halo.
-“Umm… I don’t think the other angels are going to get this.”
-“They’re still trying to figure out the platypus.”
+"Exactly!" God said, proud.  
+"It runs on sodium, potassium, and poor decisions!"
 
-God just shrugged.
-“They’ll get it eventually. Right after someone invents coffee.”
+The angel scratched their halo.  
+**"Umm... I don’t think the other angels are going to get this."**  
+*"They're still trying to figure out the platypus."*
 
-⸻
+God just shrugged.  
+**"They'll get it eventually. Right after someone invents coffee."**
 
-Fast forward to today… and here I am, in my home lab, building that same spark from scratch.
+---
+
+### ⚡ Fast forward to today…
+
+Here I am, in my home lab, building that same spark from scratch:  
 Membranes. Ion channels. Emotions. Spikes.
 
-Not metaphorically. Literally.
+**Not metaphorically. Literally.**
 
-It’s called BioSynapStudio.
-Not an AI framework. A Synthetic Intelligence engine.
+🎛️ It’s called **BioSynapStudio**  
+> Not an AI framework.  
+> A **Synthetic Intelligence engine**.
+
 Textbook neuroscience—running in code.
 
-And if you’re still scratching your halo…
-Don’t worry.
-You’ll get it. 😉
-Eventually.
+---
 
+And if you’re still scratching your halo…  
+Don’t worry.  
+**You’ll get it. 😉 Eventually.**
 
 ![BioSynapStudio Banner](https://github.com/user-attachments/assets/f9bf6da7-dcc8-45a8-9605-0eafdcd64ddf)
 
